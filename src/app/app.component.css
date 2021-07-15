@@ -55,3 +55,7 @@ mat-toolbar {
     cursor: pointer;
   }
   
+  .mat-card:hover{
+    cursor:grab;
+    background-color: lightblue;
+  }
