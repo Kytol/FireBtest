@@ -16,7 +16,7 @@
     "@angular/common": "~11.0.1",
     "@angular/compiler": "~11.0.1",
     "@angular/core": "~11.0.1",
-    "@angular/fire": "^6.1.5",
+    "@angular/fire": "^17.0.0",
     "@angular/forms": "~11.0.1",
     "@angular/material": "^11.2.13",
     "@angular/platform-browser": "~11.0.1",
